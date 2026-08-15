@@ -306,8 +306,9 @@ Remember, scripts are executable codes. Handle with caution!
   Browse daily moods in the calendar
 * [trilium-next-image-lightbox](https://github.com/npgwgmggta/trilium-next-image-lightbox) ![trilium-next-image-lightbox](https://img.shields.io/github/last-commit/npgwgmggta/trilium-next-image-lightbox)
   A powerful image lightbox viewer for Trilium Next. Double-click an image in a note to open a full-screen viewer with zoom, drag, navigation within the current note, copy/export, image info, and more.
-* [Weekly planner](https://github.com/ecodiv/Trilium_weekly_planner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_weekly_planner) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
-
+* [Weekly planner](https://github.com/ecodiv/Trilium_scripts/tree/main/weeklyplanner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_scripts) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
+* [Knowledge Debt dashboard](https://github.com/ecodiv/Trilium_scripts/tree/main/knowledgedebt) ![Knowledge Debt dashboard](https://img.shields.io/github/last-commit/ecodiv/Trilium_scripts) A dashboard to keep track of notes in your tree that are in some way neglected, never linked to, stubbed and abandoned, empty, tagged with stale TODOs, or untouched for months.
+* [Track hours](https://github.com/ecodiv/Trilium_scripts/tree/main/trackhours) ![Track hours](https://img.shields.io/github/last-commit/ecodiv/Trilium_scripts) Hours Tracker is a project-hours widget to weekly log hours for your project.
 ---
 
 ## 💥 Extension HTML Note
@@ -402,6 +403,7 @@ The client implementations for ETAPI.
 
 Programs based on triliums ETAPI.
 
+* [Thunderbird2Trilium](https://github.com/ecodiv/Trilium_scripts/tree/main/thunderbird2trilium) ![Track hours](https://img.shields.io/github/last-commit/ecodiv/Trilium_scripts) Import your emails from within [Thunderbird](https://www.thunderbird.net) directly into Trilum Notes.
 * [libby2trilium](https://github.com/0xbismarck/libby2trilium) ![libby2trilium](https://img.shields.io/github/last-commit/0xbismarck/libby2trilium)
   Import your book highlights and notes from [Libby](https://libbyapp.com/) into Trilium Notes.
 * [omnivore2trilium](https://github.com/0xbismarck/omnivore2trilium) ![omnivore2trilium](https://img.shields.io/github/last-commit/0xbismarck/omnivore2trilium)
